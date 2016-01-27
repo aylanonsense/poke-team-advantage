@@ -25,8 +25,8 @@ for k in range(1, n):
 			alternatives = []
 		elif bin(byte).count("1") == num_advantages:
 			alternatives.append(subset)
-	print "%s: %s advantages when using %s" % (k, num_advantages, ", ".join([x['type'] for x in best_in_show]))
+	print "%s advantages when using %s" % (num_advantages, ", ".join([x['type'] for x in best_in_show]))
 	for alt in alternatives:
-		print " " * (len("%s: %s advantages when using" % (k, num_advantages)) - 2) + "or %s" % ", ".join([x['type'] for x in alt])
+		print " " * (len("%s advantages when using" % (num_advantages)) - 2) + "or %s" % ", ".join([x['type'] for x in alt])
 	if num_advantages >= n:
 		break
