@@ -1,0 +1,30 @@
+5 advantages when using Fighting
+                     or Ground
+9 advantages when using Ice, Fighting
+                     or Ice, Ground
+12 advantages when using Ice, Fighting, Ground
+14 advantages when using Ice, Fighting, Ground, Flying
+                      or Ice, Fighting, Ground, Ghost
+                      or Ice, Fighting, Ground, Dark
+16 advantages when using Ice, Fighting, Ground, Flying, Ghost
+                      or Ice, Fighting, Ground, Flying, Dark
+17 advantages when using Grass, Ice, Fighting, Ground, Flying, Ghost
+                      or Grass, Ice, Fighting, Ground, Flying, Dark
+                      or Grass, Poison, Ground, Rock, Ghost, Fairy
+                      or Grass, Poison, Ground, Rock, Dark, Fairy
+                      or Electric, Ice, Fighting, Ground, Flying, Ghost
+                      or Electric, Ice, Fighting, Ground, Flying, Dark
+                      or Ice, Fighting, Poison, Ground, Flying, Ghost
+                      or Ice, Fighting, Poison, Ground, Flying, Dark
+                      or Ice, Fighting, Ground, Flying, Ghost, Steel
+                      or Ice, Fighting, Ground, Flying, Dark, Steel
+18 advantages when using Grass, Ice, Fighting, Poison, Ground, Flying, Ghost
+                      or Grass, Ice, Fighting, Poison, Ground, Flying, Dark
+                      or Grass, Ice, Fighting, Ground, Flying, Ghost, Steel
+                      or Grass, Ice, Fighting, Ground, Flying, Dark, Steel
+                      or Grass, Fighting, Poison, Ground, Rock, Ghost, Fairy
+                      or Grass, Fighting, Poison, Ground, Rock, Dark, Fairy
+                      or Electric, Ice, Fighting, Poison, Ground, Flying, Ghost
+                      or Electric, Ice, Fighting, Poison, Ground, Flying, Dark
+                      or Electric, Ice, Fighting, Ground, Flying, Ghost, Steel
+                      or Electric, Ice, Fighting, Ground, Flying, Dark, Steel
