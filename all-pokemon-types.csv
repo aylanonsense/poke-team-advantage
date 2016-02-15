@@ -1,4 +1,4 @@
-
+number,name,types
 001,Bulbasaur,Grass Poison
 002,Ivysaur,Grass Poison
 003,Venusaur (Mega Venusaur),Grass Poison
@@ -779,14 +779,8 @@
 707,Klefki,Steel Fairy
 708,Phantump,Ghost Grass
 709,Trevenant,Ghost Grass
-710,Pumpkaboo (Average Size),Ghost Grass
-710,Pumpkaboo (Small Size),Ghost Grass
-710,Pumpkaboo (Large Size),Ghost Grass
-710,Pumpkaboo (Super Size),Ghost Grass
-711,Gourgeist (Average Size),Ghost Grass
-711,Gourgeist (Small Size),Ghost Grass
-711,Gourgeist (Large Size),Ghost Grass
-711,Gourgeist (Super Size),Ghost Grass
+710,Pumpkaboo,Ghost Grass
+711,Gourgeist,Ghost Grass
 712,Bergmite,Ice
 713,Avalugg,Ice
 714,Noibat,Flying Dragon
